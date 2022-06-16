@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">docquityAssignment</string>
+    <string name="enter_post_id">Enter Post ID</string>
+    <string name="sample_title">Sample Title</string>
 </resources>
